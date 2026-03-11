@@ -76,6 +76,6 @@
         error.textContent = "Invalid username or password!";
       }
     }
-  </script>
+  </script> 
 </body>
 </html>
